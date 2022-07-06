@@ -12,11 +12,11 @@
 
 
 ! Exclude Sites
-$discard,site=abs-cbn.com^
-$discard,site=allhiphop.com^
-$discard,site=americantheatrewing.org^
-$discard,site=autographstoyou.com^
-$discard,site=avclub.com^
+|$discard,site=abs-cbn.com^
+|$discard,site=allhiphop.com^
+|$discard,site=americantheatrewing.org^
+|$discard,site=autographstoyou.com^
+|$discard,site=avclub.com^
 $discard,site=bafta.org^
 $discard,site=bauergriffinonline.com^
 $discard,site=bet.com^
