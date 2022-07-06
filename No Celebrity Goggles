@@ -233,37 +233,37 @@ $discard,site=tabloidmedia.co.za
 
 
 ! Exclude Titles
-BET Awards$indescription,$discard
-Carpool Karaoke$indescription,$discard
-Celeb Gossip$indescription,$discard
-Celebrities$indescription,$discard
-Celebrity Archives$indescription,$discard
-Celebrity Culture$indescription,$discard
-Celebrity Family Feud$indescription,$discard
-Celebrity Gossip$indescription,$discard
-Celebrity Moments$indescription,$discard
-Celebrity Net Worth$indescription,$discard
-Celebrity News$indescription,$discard
-Celebrity Photos$indescription,$discard
-Celebrity Pictures$indescription,$discard
-Celebrity Pics$indescription,$discard
-Celebrity Video$indescription,$discard
-Celebrity Video Messages$indescription,$discard
-Celebrity Videos$indescription,$discard
-Daytime Emmy$indescription,$discard
-Daytime Emmy Awards$indescription,$discard
-Daytime Emmys$indescription,$discard
-Famous Actors$indescription,$discard
-Famous Actresses$indescription,$discard
-Famous Birthdays$indescription,$discard
-Hollywood Celebrities$indescription,$discard
-Met Gala$indescription,$discard
-MTV Awards$indescription,$discard
-MTV Movie & TV Awards$indescription,$discard
-Primetime Emmy$indescription,$discard
-Primetime Emmy Awards$indescription,$discard
-Primetime Emmys$indescription,$discard
-The Oscars$indescription,$discard
-Tony Awards$indescription,$discard
-Video Music Awards$indescription,$discard
-VMAs$indescription,$discard
+BET Awards$inquery,$discard
+Carpool Karaoke$inquery,$discard
+Celeb Gossip$inquery,$discard
+Celebrities$inquery,$discard
+Celebrity Archives$inquery,$discard
+Celebrity Culture$inquery,$discard
+Celebrity Family Feud$inquery,$discard
+Celebrity Gossip$inquery,$discard
+Celebrity Moments$inquery,$discard
+Celebrity Net Worth$inquery,$discard
+Celebrity News$inquery,$discard
+Celebrity Photos$inquery,$discard
+Celebrity Pictures$inquery,$discard
+Celebrity Pics$inquery,$discard
+Celebrity Video$inquery,$discard
+Celebrity Video Messages$inquery,$discard
+Celebrity Videos$inquery,$discard
+Daytime Emmy$inquery,$discard
+Daytime Emmy Awards$inquery,$discard
+Daytime Emmys$inquery,$discard
+Famous Actors$inquery,$discard
+Famous Actresses$inquery,$discard
+Famous Birthdays$inquery,$discard
+Hollywood Celebrities$inquery,$discard
+Met Gala$inquery,$discard
+MTV Awards$inquery,$discard
+MTV Movie & TV Awards$inquery,$discard
+Primetime Emmy$inquery,$discard
+Primetime Emmy Awards$inquery,$discard
+Primetime Emmys$inquery,$discard
+The Oscars$inquery,$discard
+Tony Awards$inquery,$discard
+Video Music Awards$inquery,$discard
+VMAs$inquery,$discard
