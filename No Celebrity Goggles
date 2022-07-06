@@ -231,39 +231,39 @@ $discard,site=tabloidmedia.co.za
 /vma^$discard
 /vmas^$discard
 
-
+! This section of code appears to be broken, as it's not targeting the <span class="snippet-title"> in the search results.
 ! Exclude Titles
-BET Awards$intext,$discard
-Carpool Karaoke$intext,$discard
-Celeb Gossip$intext,$discard
-Celebrities$intext,$discard
-Celebrity Archives$intext,$discard
-Celebrity Culture$intext,$discard
-Celebrity Family Feud$intext,$discard
-Celebrity Gossip$intext,$discard
-Celebrity Moments$intext,$discard
-Celebrity Net Worth$intext,$discard
-Celebrity News$intext,$discard
-Celebrity Photos$intext,$discard
-Celebrity Pictures$intext,$discard
-Celebrity Pics$intext,$discard
-Celebrity Video$intext,$discard
-Celebrity Video Messages$intext,$discard
-Celebrity Videos$intext,$discard
-Daytime Emmy$intext,$discard
-Daytime Emmy Awards$intext,$discard
-Daytime Emmys$intext,$discard
-Famous Actors$intext,$discard
-Famous Actresses$intext,$discard
-Famous Birthdays$intext,$discard
-Hollywood Celebrities$intext,$discard
-Met Gala$intext,$discard
-MTV Awards$intext,$discard
-MTV Movie & TV Awards$intext,$discard
-Primetime Emmy$intext,$discard
-Primetime Emmy Awards$intext,$discard
-Primetime Emmys$intext,$discard
-The Oscars$intext,$discard
-Tony Awards$intext,$discard
-Video Music Awards$intext,$discard
-VMAs$intext,$discard
+BET Awards$intitle,$discard
+Carpool Karaoke$intitle,$discard
+Celeb Gossip$intitle,$discard
+Celebrities$intitle,$discard
+Celebrity Archives$intitle,$discard
+Celebrity Culture$intitle,$discard
+Celebrity Family Feud$intitle,$discard
+Celebrity Gossip$intitle,$discard
+Celebrity Moments$intitle,$discard
+Celebrity Net Worth$intitle,$discard
+Celebrity News$intitle,$discard
+Celebrity Photos$intitle,$discard
+Celebrity Pictures$intitle,$discard
+Celebrity Pics$intitle,$discard
+Celebrity Video$intitle,$discard
+Celebrity Video Messages$intitle,$discard
+Celebrity Videos$intitle,$discard
+Daytime Emmy$intitle,$discard
+Daytime Emmy Awards$intitle,$discard
+Daytime Emmys$intitle,$discard
+Famous Actors$intitle,$discard
+Famous Actresses$intitle,$discard
+Famous Birthdays$intitle,$discard
+Hollywood Celebrities$intitle,$discard
+Met Gala$intitle,$discard
+MTV Awards$intitle,$discard
+MTV Movie & TV Awards$intitle,$discard
+Primetime Emmy$intitle,$discard
+Primetime Emmy Awards$intitle,$discard
+Primetime Emmys$intitle,$discard
+The Oscars$intitle,$discard
+Tony Awards$intitle,$discard
+Video Music Awards$intitle,$discard
+VMAs$intitle,$discard
