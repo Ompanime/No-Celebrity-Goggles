@@ -300,44 +300,44 @@ $discard,site=celebgossip.co.za
 
 ! This section of code appears to be broken, as it's not targeting the <span class="snippet-title"> in the search results.
 ! Exclude Titles
-$discard,BET Awards,$intitle
-$discard,Bollywood Gossip,$intitle
-$discard,BuzzFeed Celeb,$intitle
-$discard,Carpool Karaoke,$intitle
-$discard,Celeb Gossip,$intitle
-$discard,Celeb News,$intitle
-$discard,Celebrities,$intitle
-$discard,Celebrity Archives,$intitle
-$discard,Celebrity Culture,$intitle
-$discard,Celebrity Family Feud,$intitle
-$discard,Celebrity Gossip,$intitle
-$discard,Celebrity Look Alike,$intitle
-$discard,Celebrity Moments,$intitle
-$discard,Celebrity Net Worth,$intitle
-$discard,Celebrity News,$intitle
-$discard,Celebrity Photos,$intitle
-$discard,Celebrity Pictures,$intitle
-$discard,Celebrity Pics,$intitle
-$discard,Celebrity Video,$intitle
-$discard,Celebrity Video Messages,$intitle
-$discard,Celebrity Videos,$intitle
-$discard,Daytime Emmy,$intitle
-$discard,Daytime Emmy Awards,$intitle
-$discard,Daytime Emmys,$intitle
-$discard,Emmy Awards,$intitle
-$discard,Famous Actors,$intitle
-$discard,Famous Actresses,$intitle
-$discard,Famous Birthdays,$intitle
-$discard,Hollywood Celebrities,$intitle
-$discard,Met Gala,$intitle
-$discard,MTV Awards,$intitle
-$discard,MTV Movie & TV Awards,$intitle
-$discard,MTV VMA,$intitle
-$discard,Nollywood Gossip,$intitle
-$discard,Primetime Emmy,$intitle
-$discard,Primetime Emmy Awards,$intitle
-$discard,Primetime Emmys,$intitle
-$discard,The Oscars,$intitle
-$discard,Tony Awards,$intitle
-$discard,Video Music Awards,$intitle
-$discard,VMAs,$intitle
+BET Awards$intitle,$discard
+Bollywood Gossip$intitle,$discard
+BuzzFeed Celeb$intitle,$discard
+Carpool Karaoke$intitle,$discard
+Celeb Gossip$intitle,$discard
+Celeb News$intitle,$discard
+Celebrities$intitle,$discard
+Celebrity Archives$intitle,$discard
+Celebrity Culture$intitle,$discard
+Celebrity Family Feud$intitle,$discard
+Celebrity Gossip$intitle,$discard
+Celebrity Look Alike$intitle,$discard
+Celebrity Moments$intitle,$discard
+Celebrity Net Worth$intitle,$discard
+Celebrity News$intitle,$discard
+Celebrity Photos$intitle,$discard
+Celebrity Pictures$intitle,$discard
+Celebrity Pics$intitle,$discard
+Celebrity Video$intitle,$discard
+Celebrity Video Messages$intitle,$discard
+Celebrity Videos$intitle,$discard
+Daytime Emmy$intitle,$discard
+Daytime Emmy Awards$intitle,$discard
+Daytime Emmys$intitle,$discard
+Emmy Awards$intitle,$discard
+Famous Actors$intitle,$discard
+Famous Actresses$intitle,$discard
+Famous Birthdays$intitle,$discard
+Hollywood Celebrities$intitle,$discard
+Met Gala$intitle,$discard
+MTV Awards$intitle,$discard
+MTV Movie & TV Awards$intitle,$discard
+MTV VMA$intitle,$discard
+Nollywood Gossip$intitle,$discard
+Primetime Emmy$intitle,$discard
+Primetime Emmy Awards$intitle,$discard
+Primetime Emmys$intitle,$discard
+The Oscars$intitle,$discard
+Tony Awards$intitle,$discard
+Video Music Awards$intitle,$discard
+VMAs$intitle,$discard
