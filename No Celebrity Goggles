@@ -1,5 +1,5 @@
 ! name: No Celebrity Goggles
-! description: Remove pages/threads related to today's pop/celebrity culture and tabloid media outlets which contribute to it's influence.
+! description: Remove websites related to today's pop/celebrity culture and tabloid media outlets which contribute to it's influence.
 ! public: true
 ! author: Ompanime
 ! avatar: #FFFFFF
@@ -20,27 +20,41 @@ $discard,site=avclub.com
 $discard,site=bafta.org
 $discard,site=bauergriffinonline.com
 $discard,site=bet.com
+$discard,site=bherc.org
 $discard,site=billboard.com
 $discard,site=biographyzing.com
 $discard,site=boardroom.tv
+$discard,site=bollywood.com
+$discard,site=bollywoodbubble.com
 $discard,site=bollywoodhungama.com
+$discard,site=bollywoodlife.com
+$discard,site=bollywoodmdb.com
+$discard,site=bollywoodsociety.com
+$discard,site=bossip.com
 $discard,site=broadwaynews.com
 $discard,site=broadwayworld.com
 $discard,site=cameo.com
 $discard,site=celeb.tv
+$discard,site=celebdirtylaundry.com
 $discard,site=celebitchy.com
+$discard,site=celebmagazine.com
+$discard,site=celebnetworthpost.com
+$discard,site=celebrity.land
 $discard,site=celebrity-babies.com
+$discard,site=celebritydating.net
 $discard,site=celebrityinsider.org
 $discard,site=celebritylaundry.com
 $discard,site=celebritynetworth.com
 $discard,site=celebritytalent.net
 $discard,site=celebs101.com
+$discard,site=celebsecrets.com
 $discard,site=celebslam.com
 $discard,site=celebuzz.com
 $discard,site=celebvm.com
 $discard,site=celebwell.com
 $discard,site=chiff.com
 $discard,site=cinemablend.com
+$discard,site=collider.com
 $discard,site=complex.com
 $discard,site=cosmopolitan.com
 $discard,site=criticschoice.com
@@ -49,11 +63,13 @@ $discard,site=daytimeconfidential.com
 $discard,site=daytimeemmys.dmds.com
 $discard,site=deadline.com
 $discard,site=defamer.com
+$discard,site=digitalspy.com
 $discard,site=dlisted.com
 $discard,site=egotastic.com
 $discard,site=elle.com
 $discard,site=emmyonline.org
 $discard,site=emmys.com
+$discard,site=entertainment.ie
 $discard,site=eonline.com
 $discard,site=esquire.com
 $discard,site=etcanada.com
@@ -62,37 +78,57 @@ $discard,site=ew.com
 $discard,site=factsdirectory.com
 $discard,site=factswow.com
 $discard,site=famousbirthdays.com
+$discard,site=fanfest.com
 $discard,site=fanmaildirect.com
 $discard,site=fansided.com
+$discard,site=filmfare.com
+$discard,site=filmschoolrejects.com
+$discard,site=filmyvoice.com
 $discard,site=gawker.com
 $discard,site=glamour.com
 $discard,site=globemagazine.com
 $discard,site=gofugyourself.com
 $discard,site=goldderby.com
+$discard,site=gossipbae.com
 $discard,site=gossipgirls.com
 $discard,site=gossiponthis.com
 $discard,site=gossiprocks.com
+$discard,site=gossiptop10.com
 $discard,site=harpersbazaar.com
+$discard,site=heatworld.com
 $discard,site=hellomagazine.com
+$discard,site=heroichollywood.com
 $discard,site=hola.com
+$discard,site=hollywoodintoto.com
 $discard,site=hollywoodlife.com
+$discard,site=hollywoodmask.com
+$discard,site=hollywoodnews.com
+$discard,site=holywoodnetwork.org
 $discard,site=hollywoodrag.com
 $discard,site=hollywoodreporter.com
 $discard,site=hollywoodshow.com
 $discard,site=hollywoodtuna.com
+$discard,site=hypebeast.com
 $discard,site=idontlikeyouinthatway.com
+$discard,site=iemmys.tv
 $discard,site=imdb.com
 $discard,site=infdaily.com
 $discard,site=insider.com
 $discard,site=instyle.com
+$discard,site=intouchweekly.com
 $discard,site=jezebel.com
+$discard,site=joblo.com
 $discard,site=justjared.com
+$discard,site=justjaredjr.com
 $discard,site=koimoi.com
 $discard,site=laineygossip.com
 $discard,site=lancasteronline.com
 $discard,site=leakedphotos.net
+$discard,site=lipstickalley.com
+$discard,site=magicimagemagazine.com
 $discard,site=marca.com
 $discard,site=marieclaire.com
+$discard,site=masala.com
 $discard,site=mediatakeout.com
 $discard,site=memmo.me
 $discard,site=mn2s.com
@@ -108,15 +144,22 @@ $discard,site=okmagazine.com
 $discard,site=omg.yahoo.com
 $discard,site=oscars.org
 $discard,site=pagesix.com
+$discard,site=parade.com
 $discard,site=passionbuz.com
 $discard,site=pastemagazine.com
 $discard,site=people.com
 $discard,site=perezhilton.com
 $discard,site=pinkisthenewblog.com
+$discard,site=planetbollywood.com
+$discard,site=popbuzz.com
 $discard,site=popculture.com
 $discard,site=popgrind.com
 $discard,site=popsugar.com
+$discard,site=popwrapped.com
+$discard,site=popxo.com
+$discard,site=presspassla.com
 $discard,site=programminginsider.com
+$discard,site=projectfangirl.online
 $discard,site=radaronline.com
 $discard,site=realitytelevisionawards.com
 $discard,site=realitytitbit.com
@@ -124,13 +167,18 @@ $discard,site=refinery29.com
 $discard,site=rollingstone.com
 $discard,site=sbnation.com
 $discard,site=seventeen.com
+$discard,site=soapoperadigest.com
 $discard,site=soaps.sheknows.com
 $discard,site=soapsindepth.com
+$discard,site=soompi.com
 $discard,site=starmagazine.com
 $discard,site=stylecaster.com
+$discard,site=tattle.life
 $discard,site=tdn.tv
+$discard,site=teenvogue.com
 $discard,site=telltalesonline.com
 $discard,site=the-sun.com
+$discard,site=theblast.com
 $discard,site=thecelebrityexperience.tv
 $discard,site=thechive.com
 $discard,site=theconversation.com
@@ -140,8 +188,11 @@ $discard,site=thedirect.com
 $discard,site=theemmys.tv
 $discard,site=thefocus.news
 $discard,site=thegreatdebatersmovie.com
+$discard,site=thehollywooddog.com
 $discard,site=thehollywoodgossip.com
 $discard,site=theringer.com
+$discard,site=theshaderoom.com
+$discard,site=theshocknews.com
 $discard,site=thesuperficial.com
 $discard,site=thewrap.com
 $discard,site=tmz.com
@@ -153,13 +204,16 @@ $discard,site=usmagazine.com
 $discard,site=vanityfair.com
 $discard,site=variety.com
 $discard,site=vh1.com
+$discard,site=vimbuzz.com
 $discard,site=vogue.com
 $discard,site=vulture.com
 $discard,site=watch.theemmys.tv
 $discard,site=wealthygorilla.com
+$discard,site=wegotthiscovered.com
 $discard,site=wesmirch.com
 $discard,site=weeklyworldnews.com
 $discard,site=whattowatch.com
+$discard,site=womenandhollywood.com
 $discard,site=wonderwall.com
 $discard,site=worldstarhiphop.com
 $discard,site=worthycelebs.com
@@ -170,6 +224,7 @@ $discard,site=zimbio.com
 
 $discard,site=celebsnow.co.uk
 $discard,site=dailymail.co.uk
+$discard,site=dailystar.co.uk
 $discard,site=glamourmagazine.co.uk
 $discard,site=inews.co.uk
 $discard,site=megastar.co.uk
@@ -182,19 +237,22 @@ $discard,site=thrillz.co.uk
 
 $discard,site=slice.ca
 
+$discard,site=celebrity.nine.com.au
 $discard,site=gq.com.au
+$discard,site=mtv.com.au
 
 $discard,site=ifta.ie
 
-$discard,site=blueprint.ng
-$discard,site=leadership.ng
-
-$discard,site=tabloidmedia.co.za
+$discard,site=celebgossip.co.za
 
 
 ! Exclude Patterns
 /bet-awards^$discard
 /betawards^$discard
+/buzzfeed celeb^$discard
+/celeb-news^$discard
+/celeb-stalker^$discard
+/celeb-stalker-crossword-clue^$discard
 /celebnetworth^$discard
 /celebrities^$discard
 /celebrity-deaths^$discard
@@ -204,10 +262,16 @@ $discard,site=tabloidmedia.co.za
 /celebrity^$discard
 /celebritynetworth^$discard
 /celebs^$discard
+/celebs-celebrity-look-alike^$discard
+/celebwouldyourather^$discard
+/checktheceleb^$discard
 /daytimeemmyawards^$discard
+/emmy_awards^$discard
+/emmy-awards^$discard
 /emmys^$discard
 /entertainment^$discard
 /film/oscars^$discard
+/hollywoodtv^$discard
 /metgala^$discard
 /met-gala^$discard
 /movie/awards^$discard
@@ -221,6 +285,7 @@ $discard,site=tabloidmedia.co.za
 /shows/oscars^$discard
 /the_oscars^$discard
 /the-oscars
+/thecelebtv^$discard
 /theoscars^$discard
 /thetonyawards^$discard
 /tony_awards^$discard
@@ -231,40 +296,48 @@ $discard,site=tabloidmedia.co.za
 /tv^$discard
 /vma^$discard
 /vmas^$discard
+/younghollywood^$discard
 
 ! This section of code appears to be broken, as it's not targeting the <span class="snippet-title"> in the search results.
 ! Exclude Titles
-BET Awards$intitle,$discard
-Carpool Karaoke$intitle,$discard
-Celeb Gossip$intitle,$discard
-Celebrities$intitle,$discard
-Celebrity Archives$intitle,$discard
-Celebrity Culture$intitle,$discard
-Celebrity Family Feud$intitle,$discard
-Celebrity Gossip$intitle,$discard
-Celebrity Moments$intitle,$discard
-Celebrity Net Worth$intitle,$discard
-Celebrity News$intitle,$discard
-Celebrity Photos$intitle,$discard
-Celebrity Pictures$intitle,$discard
-Celebrity Pics$intitle,$discard
-Celebrity Video$intitle,$discard
-Celebrity Video Messages$intitle,$discard
-Celebrity Videos$intitle,$discard
-Daytime Emmy$intitle,$discard
-Daytime Emmy Awards$intitle,$discard
-Daytime Emmys$intitle,$discard
-Famous Actors$intitle,$discard
-Famous Actresses$intitle,$discard
-Famous Birthdays$intitle,$discard
-Hollywood Celebrities$intitle,$discard
-Met Gala$intitle,$discard
-MTV Awards$intitle,$discard
-MTV Movie & TV Awards$intitle,$discard
-Primetime Emmy$intitle,$discard
-Primetime Emmy Awards$intitle,$discard
-Primetime Emmys$intitle,$discard
-The Oscars$intitle,$discard
-Tony Awards$intitle,$discard
-Video Music Awards$intitle,$discard
-VMAs$intitle,$discard
+$discard,BET Awards,$intitle
+$discard,Bollywood Gossip,$intitle
+$discard,BuzzFeed Celeb,$intitle
+$discard,Carpool Karaoke,$intitle
+$discard,Celeb Gossip,$intitle
+$discard,Celeb News,$intitle
+$discard,Celebrities,$intitle
+$discard,Celebrity Archives,$intitle
+$discard,Celebrity Culture,$intitle
+$discard,Celebrity Family Feud,$intitle
+$discard,Celebrity Gossip,$intitle
+$discard,Celebrity Look Alike,$intitle
+$discard,Celebrity Moments,$intitle
+$discard,Celebrity Net Worth,$intitle
+$discard,Celebrity News,$intitle
+$discard,Celebrity Photos,$intitle
+$discard,Celebrity Pictures,$intitle
+$discard,Celebrity Pics,$intitle
+$discard,Celebrity Video,$intitle
+$discard,Celebrity Video Messages,$intitle
+$discard,Celebrity Videos,$intitle
+$discard,Daytime Emmy,$intitle
+$discard,Daytime Emmy Awards,$intitle
+$discard,Daytime Emmys,$intitle
+$discard,Emmy Awards,$intitle
+$discard,Famous Actors,$intitle
+$discard,Famous Actresses,$intitle
+$discard,Famous Birthdays,$intitle
+$discard,Hollywood Celebrities,$intitle
+$discard,Met Gala,$intitle
+$discard,MTV Awards,$intitle
+$discard,MTV Movie & TV Awards,$intitle
+$discard,MTV VMA,$intitle
+$discard,Nollywood Gossip,$intitle
+$discard,Primetime Emmy,$intitle
+$discard,Primetime Emmy Awards,$intitle
+$discard,Primetime Emmys,$intitle
+$discard,The Oscars,$intitle
+$discard,Tony Awards,$intitle
+$discard,Video Music Awards,$intitle
+$discard,VMAs,$intitle
