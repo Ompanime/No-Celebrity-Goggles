@@ -243,7 +243,7 @@ $discard,site=popdust.com
 $discard,site=popgrind.com
 $discard,site=popsugar.co.uk
 $discard,site=popsugar.com
-$discard,site=popularbio .com
+$discard,site=popularbio.com
 $discard,site=popularinside.com
 $discard,site=popularnetworth.com
 $discard,site=popwrapped.com
@@ -296,7 +296,6 @@ $discard,site=theemmys.tv
 $discard,site=thefamouspeople.com
 $discard,site=thefocus.news
 $discard,site=thegreatdebatersmovie.com
-$discard,site=thehandbook.com/celebrity-influencer-pl
 $discard,site=thehollywooddog.com
 $discard,site=thehollywoodgossip.com
 $discard,site=thehollywoodmuseum.com
@@ -369,6 +368,7 @@ hollywood|$discard,inurl
 /celebrities$discard
 /celebrity-deaths$discard
 /celebrity-gossip$discard
+/celebrity-influencer-pl$discard
 /celebrity-lifestyle$discard
 /celebrity-net-worth$discard
 /celebrity-news$discard
