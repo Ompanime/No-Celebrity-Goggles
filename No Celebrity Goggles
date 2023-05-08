@@ -10,12 +10,17 @@
 !
 ! Please donate here: ETH: 0xD8220411703CEADdcAD2A12fb516C771B122A887
 
+! Boost Subdirectories
+/r/unfollowcelebs$boost=2
+
 ! Discard Sites
 $discard,site=12thblog.com
 $discard,site=44bars.com
 $discard,site=8days.sg
 $discard,site=9now.nine.com.au
 $discard,site=abs-cbn.com
+$discard,site=accesshollywood.com
+$discard,site=accessonline.com
 $discard,site=allcinema.net
 $discard,site=allfamous.org
 $discard,site=allfamousbirthday.com
@@ -115,13 +120,16 @@ $discard,site=celebsfacts.com
 $discard,site=celebskart.com
 $discard,site=celebslam.com
 $discard,site=celebsline.com
+$discard,site=celebsmoviejackets.com
 $discard,site=celebsnow.co.uk
+$discard,site=celebsonsandwiches.com
 $discard,site=celebstalks.com
 $discard,site=celebuzz.com
 $discard,site=celebvm.com
 $discard,site=celebwell.com
 $discard,site=celebwikibiography.com
 $discard,site=celebwikigossip.com
+$discard,site=celpox.com
 $discard,site=chatwithcelebrity.com
 $discard,site=cheatsheet.com
 $discard,site=chiff.com
@@ -218,6 +226,7 @@ $discard,site=harpersbazaar.com.sg
 $discard,site=healthyceleb.com
 $discard,site=heatworld.com
 $discard,site=heightline.com
+$discard,site=hellobeautiful.com
 $discard,site=hellomagazine.com
 $discard,site=her.ie
 $discard,site=hercampus.com
@@ -238,6 +247,7 @@ $discard,site=hollywoodtuna.com
 $discard,site=holywoodnetwork.org
 $discard,site=honeygerman.com
 $discard,site=hotcelebswiki.com
+$discard,site=houseofcelebrities.com
 $discard,site=howrichcelebs.com
 $discard,site=huntingceleb.com
 $discard,site=hypebeast.com
@@ -257,6 +267,7 @@ $discard,site=instyle.com
 $discard,site=intouchweekly.com
 $discard,site=itscelebrity.com
 $discard,site=itsonlyentertainment.net
+$discard,site=j-14.com
 $discard,site=janetcharltonshollywood.com
 $discard,site=jezebel.com
 $discard,site=joblo.com
@@ -269,6 +280,7 @@ $discard,site=kbizoom.com
 $discard,site=koimoi.com
 $discard,site=koreaboo.com
 $discard,site=kpophit.com
+$discard,site=kpopmap.com
 $discard,site=laineygossip.com
 $discard,site=lancasteronline.com
 $discard,site=leakedphotos.net
@@ -277,6 +289,7 @@ $discard,site=lifestyle.one
 $discard,site=lionheartv.net
 $discard,site=lipstickalley.com
 $discard,site=lofficielusa.com
+$discard,site=logotv.com
 $discard,site=looper.com
 $discard,site=magicimagemagazine.com
 $discard,site=magweb.com
@@ -379,6 +392,7 @@ $discard,site=scoopwhoop.com
 $discard,site=screenrant.com
 $discard,site=seafricasa.co.za
 $discard,site=seansmithceleb.com
+$discard,site=seeing-stars.com
 $discard,site=seventeen.com
 $discard,site=shadowandact.com
 $discard,site=showbizjobs.com
@@ -557,7 +571,9 @@ hollywood|$discard,inurl
 /famous-people-facts$discard
 /famousbirthdays$discard
 /film/oscars$discard
+/hollywood/star-walk$discard
 /hollywoodtv$discard
+/hwdwalkoffame$discard
 /influencer$discard
 /kca$discard
 /kcas$discard
@@ -575,7 +591,35 @@ hollywood|$discard,inurl
 /popculture$discard
 /popculturedotcom$discard
 /popculturetv$discard
+/r/amazingcelebs$discard
+/r/asiancelebs$discard
 /r/biographyceleb$discard
+/r/boredcelebs$discard
+/r/candidcelebs$discard
+/r/celeb_redheads$discard
+/r/celebritydresses$discard
+/r/celebrityhaven$discard
+/r/celebritylookalikes$discard
+/r/celebritymidriff$discard
+/r/celebrityoutside$discard
+/r/celebritypigtails$discard
+/r/celebs$discard
+/r/celebscurated$discard
+/r/celebshouse$discard
+/r/celebsover50$discard
+/r/celebswallpaper$discard
+/r/elitecelebs$discard
+/r/enhancethecelebs$discard
+/r/highrescelebs$discard
+/r/hotgermancelebrities$discard
+/r/kuwtk$discard
+/r/my_celebrity_crush$discard
+/r/obsessedwithcelebs$discard
+/r/oldschoolcelebs$discard
+/r/popculturechat$discard
+/r/rankcelebs$discard
+/r/trueratecelebrities$discard
+/r/ultrahighrescelebs$discard
 /reutersshowbiz$discard
 /saaravita$discard
 /showbiz$discard
@@ -603,6 +647,7 @@ hollywood|$discard,inurl
 /tv$discard
 /vma$discard
 /vmas$discard
+/walkoffamestar$discard
 /yahooentertainment$discard
 /younghollywood$discard
 /yourcelebritymagazines$discard
@@ -630,23 +675,31 @@ Celeb Crush$discard,intitle
 Celeb Endorsement$discard,intitle
 Celeb Endorsements$discard,intitle
 Celeb Gossip$discard,intitle
+Celeb Kids$discard,intitle
+Celeb Love$discard,intitle
 Celeb News$discard,intitle
 Celeb Transformations$discard,intitle
 Celebrities$discard,intitle
 Celebrities Endorse$discard,intitle
 Celebrities Endorsed$discard,intitle
 Celebrities Had$discard,intitle
+Celebrities Love$discard,intitle
 Celebrities React$discard,intitle
 Celebrities Share$discard,intitle
+Celebrities Straight$discard,intitle
 Celebrities To Follow$discard,intitle
+Celebrities To Notice$discard,intitle
 Celebrities We Love$discard,intitle
+Celebrities Wear$discard,intitle
 Celebrities Who$discard,intitle
 Celebrities With$discard,intitle
+Celebrities You$discard,intitle
 Celebrity-Owned$discard,intitle
 Celebrity 100$discard,intitle
 Celebrity 100 List$discard,intitle
 Celebrity Apprentice$discard,intitle
 Celebrity Archives$discard,intitle
+Celebrity Bookworms$discard,intitle
 Celebrity Chef$discard,intitle
 Celebrity Chefs$discard,intitle
 Celebrity Couple$discard,intitle
@@ -659,6 +712,7 @@ Celebrity Encounters$discard,intitle
 Celebrity Endorsement$discard,intitle
 Celebrity Endorsements$discard,intitle
 Celebrity Facts$discard,intitle
+Celebrity Families$discard,intitle
 Celebrity Family Feud$discard,intitle
 Celebrity Ghost$discard,intitle
 Celebrity Gossip$discard,intitle
@@ -668,8 +722,12 @@ Celebrity Influencers$discard,intitle
 Celebrity IOU$discard,intitle
 Celebrity Lookalike$discard,intitle
 Celebrity Look Alike$discard,intitle
+Celebrity Love$discard,intitle
+Celebrity Magazine$discard,intitle
+Celebrity Magazines$discard,intitle
 Celebrity Makeover$discard,intitle
 Celebrity Makeup$discard,intitle
+Celebrity Men$discard,intitle
 Celebrity Moments$discard,intitle
 Celebrity Moms$discard,intitle
 Celebrity Net Worth$discard,intitle
@@ -677,22 +735,31 @@ Celebrity News$discard,intitle
 Celebrity Photos$discard,intitle
 Celebrity Pics$discard,intitle
 Celebrity Pictures$discard,intitle
+Celebrity Recipes$discard,intitle
 Celebrity Renovation$discard,intitle
 Celebrity Softball$discard,intitle
 Celebrity Stylist$discard,intitle
+Celebrity Tattoos$discard,intitle
+Celebrity To Notice$discard,intitle
 Celebrity Trivia$discard,intitle
 Celebrity Video$discard,intitle
 Celebrity Video Messages$discard,intitle
 Celebrity Videos$discard,intitle
+Celebrity Voiceover$discard,intitle
+Celebrity Voiceovers$discard,intitle
 Celebs Are$discard,intitle
 Celebs Go$discard,intitle
+Celebs Love$discard,intitle
 Celebs React$discard,intitle
 Celebs Share$discard,intitle
 Celebs Team Up$discard,intitle
 Celebs We Love$discard,intitle
+Celebs Wear$discard,intitle
 Celebs Were$discard,intitle
 Celebs Who$discard,intitle
 Celebs Whose$discard,intitle
+Celebs With$discard,intitle
+Chill Celebrities$discard,intitle 
 Daytime Emmy$discard,intitle
 Daytime Emmy Awards$discard,intitle
 Daytime Emmys$discard,intitle
@@ -709,6 +776,7 @@ Favorite Celebrities$discard,intitle
 Favorite Celebrity$discard,intitle
 Favorite Celebs$discard,intitle
 Female Celebrities$discard,intitle
+Female Celebs$discard,intitle
 Forbes Celebrity$discard,intitle
 Funny Celeb$discard,intitle
 Funny Celebrity$discard,intitle
@@ -720,8 +788,17 @@ Hollywood Stars$discard,intitle
 I'm A Celebrity$discard,intitle
 Insane Celebrities$discard,intitle
 Insane Celebrity$discard,intitle
+LGBT Celebs$discard,intitle
+LGBT Stars$discard,intitle
+LGBT+ Celebrities$discard,intitle
+LGBTQ Celebrities$discard,intitle
+LGBTQ Celebrity$discard,intitle
+LGBTQ+ Celeb$discard,intitle
+LGBTQ+ Celebs$discard,intitle
+List of Celebs$discard,intitle
 Local Celebrities$discard,intitle
 Local Celebrity$discard,intitle
+Love Celebrities$discard,intitle
 Male Celebrities$discard,intitle
 Met Celebrities$discard,intitle
 Met Gala$discard,intitle
@@ -730,6 +807,7 @@ MTV Movie & TV Awards$discard,intitle
 MTV VMA$discard,intitle
 NGV Gala$discard,intitle
 Nollywood Celebrities$discard,intitle
+Nollywood Celebs$discard,intitle
 Nollywood Gossip$discard,intitle
 Nollywood News$discard,intitle
 Photos of Celebrities$discard,intitle
@@ -738,6 +816,10 @@ Pregnant Celebrities$discard,intitle
 Primetime Emmy$discard,intitle
 Primetime Emmy Awards$discard,intitle
 Primetime Emmys$discard,intitle
+Some Celebs$discard,intitle
+Straight Celebrities$discard,intitle
+Straight Celebs$discard,intitle
+The Hollywood Reporter$discard,intitle
 The Oscars$discard,intitle
 Times Celebs$discard,intitle
 Tony Awards$discard,intitle
@@ -745,6 +827,8 @@ Video Music Awards$discard,intitle
 VMAs$discard,intitle
 Which Celebrities$discard,intitle
 Which Celebrity$discard,intitle
+Which Celeb$discard,intitle
+Which Celebs$discard,intitle
 With A Celebrity$discard,intitle
 Won An EGOT$discard,intitle
 Worst Celeb$discard,intitle
