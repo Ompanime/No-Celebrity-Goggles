@@ -16,11 +16,13 @@
 ! Discard Sites
 $discard,site=12thblog.com
 $discard,site=44bars.com
+$discard,site=4celeb.com
 $discard,site=8days.sg
 $discard,site=9now.nine.com.au
 $discard,site=abs-cbn.com
 $discard,site=accesshollywood.com
 $discard,site=accessonline.com
+$discard,site=afterellen.com
 $discard,site=allcinema.net
 $discard,site=allfamous.org
 $discard,site=allfamousbirthday.com
@@ -44,6 +46,7 @@ $discard,site=bbcgossip.com
 $discard,site=bdg.com
 $discard,site=bellanaija.com
 $discard,site=bet.com
+$discard,site=beyonce.com
 $discard,site=bherc.org
 $discard,site=biggerstars.com
 $discard,site=billboard.com
@@ -59,10 +62,13 @@ $discard,site=boardroom.tv
 $discard,site=bollycurry.com
 $discard,site=bollywood.com
 $discard,site=bollywoodbubble.com
+$discard,site=bollywoodfever.co.in
 $discard,site=bollywoodhungama.com
 $discard,site=bollywoodlife.com
 $discard,site=bollywoodmdb.com
+$discard,site=bollywoodnews.org
 $discard,site=bollywoodsociety.com
+$discard,site=bookingagentinfo.com
 $discard,site=bossip.com
 $discard,site=bravotv.com
 $discard,site=broadwaynews.com
@@ -70,15 +76,20 @@ $discard,site=broadwayworld.com
 $discard,site=bustle.com
 $discard,site=buzzcountry.com
 $discard,site=cageyceleb.com
+$discard,site=caitlynjenner.com
 $discard,site=cameo.com
 $discard,site=capitalxtra.com
+$discard,site=cardibofficial.com
 $discard,site=cartermatt.com
 $discard,site=celeb.qc.to
 $discard,site=celeb.tv
 $discard,site=celeb99.com
+$discard,site=celeb-facts.com
 $discard,site=celeb-gossip.com
 $discard,site=celeb-networth.com
+$discard,site=celebconfirmed.com
 $discard,site=celebdirtylaundry.com
+$discard,site=celebdoko.com
 $discard,site=celebgossip.co.za
 $discard,site=celebgossip.com
 $discard,site=celebhealthmagazine.com
@@ -104,6 +115,7 @@ $discard,site=celebrityangels.co.uk
 $discard,site=celebritychefnetwork.com
 $discard,site=celebritydating.net
 $discard,site=celebritydetective.com
+$discard,site=celebritydig.com
 $discard,site=celebrityfunfacts.com
 $discard,site=celebritygossip.news
 $discard,site=celebrityinfluencers.net
@@ -119,6 +131,7 @@ $discard,site=celebsecrets.com
 $discard,site=celebsfacts.com
 $discard,site=celebskart.com
 $discard,site=celebslam.com
+$discard,site=celebslike.me
 $discard,site=celebsline.com
 $discard,site=celebsmoviejackets.com
 $discard,site=celebsnow.co.uk
@@ -129,6 +142,7 @@ $discard,site=celebvm.com
 $discard,site=celebwell.com
 $discard,site=celebwikibiography.com
 $discard,site=celebwikigossip.com
+$discard,site=celebworth.com.ng
 $discard,site=celpox.com
 $discard,site=chatwithcelebrity.com
 $discard,site=cheatsheet.com
@@ -141,6 +155,7 @@ $discard,site=complex.com
 $discard,site=cosmopolitan.com
 $discard,site=crazybollywoodcelebrities.com
 $discard,site=criticschoice.com
+$discard,site=cumicumi.com
 $discard,site=dailycelebritycrossword.com
 $discard,site=dailymail.co.uk
 $discard,site=dailymail.com
@@ -155,6 +170,7 @@ $discard,site=dishnation.com
 $discard,site=distractify.com
 $discard,site=dlisted.com
 $discard,site=dramapanda.com
+$discard,site=drinkprime.com
 $discard,site=ecelebritymirror.com
 $discard,site=efocus.news
 $discard,site=egotastic.com
@@ -162,6 +178,7 @@ $discard,site=entertainmentdaily.co.uk
 $discard,site=entertainmentsa.co.za
 $discard,site=elitedaily.com
 $discard,site=elle.com
+$discard,site=ellentube.com
 $discard,site=emmyonline.org
 $discard,site=emmys.com
 $discard,site=entertainment.ie
@@ -176,6 +193,7 @@ $discard,site=ew.com
 $discard,site=exploreceleb.com
 $discard,site=extratv.com
 $discard,site=factceleb.com
+$discard,site=factmandu.com
 $discard,site=factsdirectory.com
 $discard,site=factswow.com
 $discard,site=famous-celebrities.com
@@ -211,6 +229,7 @@ $discard,site=gluwee.com
 $discard,site=gofugyourself.com
 $discard,site=goldderby.com
 $discard,site=gossipbae.com
+$discard,site=gossipbucket.com
 $discard,site=gossipchimp.com
 $discard,site=gossipgirls.com
 $discard,site=gossiponthis.com
@@ -257,6 +276,8 @@ $discard,site=iemmys.tv
 $discard,site=ifta.ie
 $discard,site=ikonlondonmagazine.com
 $discard,site=imdb.com
+$discard,site=indiaforums.com
+$discard,site=indiatvnews.com
 $discard,site=inews.co.uk
 $discard,site=infdaily.com
 $discard,site=infofamouspeople.com
@@ -271,25 +292,40 @@ $discard,site=j-14.com
 $discard,site=janetcharltonshollywood.com
 $discard,site=jezebel.com
 $discard,site=joblo.com
+$discard,site=jonasbrothers.com
+$discard,site=justinbiebermusic.com
 $discard,site=justjared.com
 $discard,site=justjaredjr.com
 $discard,site=justusboys.com
 $discard,site=kanyewest.com
 $discard,site=kardashiankloset.com
+$discard,site=kardashians.fandom.com
+$discard,site=katyperry.com
 $discard,site=kbizoom.com
 $discard,site=koimoi.com
 $discard,site=koreaboo.com
+$discard,site=kourtneykardashian.com
 $discard,site=kpophit.com
 $discard,site=kpopmap.com
+$discard,site=kyliecosmetics.com
+$discard,site=kyliejenner.com
+$discard,site=ladygaga.com
 $discard,site=laineygossip.com
 $discard,site=lancasteronline.com
+$discard,site=latestceleb.com
+$discard,site=lavishcelebrities.com
+$discard,site=lavishcelebs.com
 $discard,site=leakedphotos.net
+$discard,site=lebronjames.com
+$discard,site=lemmelive.com
 $discard,site=lifeandstylemag.com
 $discard,site=lifestyle.one
 $discard,site=lionheartv.net
 $discard,site=lipstickalley.com
 $discard,site=lofficielusa.com
+$discard,site=loganpaul.com
 $discard,site=logotv.com
+$discard,site=lolwot.com
 $discard,site=looper.com
 $discard,site=magicimagemagazine.com
 $discard,site=magweb.com
@@ -298,7 +334,9 @@ $discard,site=marieclaire.com
 $discard,site=marriedbiography.com
 $discard,site=masala.com
 $discard,site=meanstars.com
+$discard,site=mediareferee.com
 $discard,site=mediatakeout.com
+$discard,site=megantheestallion.com
 $discard,site=megastar.co.uk
 $discard,site=memmo.me
 $discard,site=metro.co.uk
@@ -323,12 +361,14 @@ $discard,site=nationalenquirer.com
 $discard,site=nationaltvawards.com
 $discard,site=netflixjunkie.com
 $discard,site=netflixlife.com
+$discard,site=networthandbio.com
 $discard,site=networthplanet.com
 $discard,site=networthpost.org
 $discard,site=networthwikibio.org
 $discard,site=newidea.com.au
 $discard,site=news.abs-cbn.com
 $discard,site=news24.com
+$discard,site=nickiminajofficial.com
 $discard,site=nickiswift.com
 $discard,site=nollymania.com
 $discard,site=nollywoodcelebs.com
@@ -341,6 +381,9 @@ $discard,site=ok.co.uk
 $discard,site=okmagazine.com
 $discard,site=omg.yahoo.com
 $discard,site=onehallyu.com
+$discard,site=onlycelebsinfo.tumblr.com
+$discard,site=oprah.com 
+$discard,site=oprahdaily.com
 $discard,site=oscars.org
 $discard,site=otakukart.com
 $discard,site=pagesix.com
@@ -353,6 +396,7 @@ $discard,site=peopleai.com
 $discard,site=peopleinmedia.org
 $discard,site=peoplemagazine.co.za
 $discard,site=peoplematter.tv
+$discard,site=peopleworld.co.uk
 $discard,site=pep.ph
 $discard,site=perezhilton.com
 $discard,site=pinkisthenewblog.com
@@ -374,6 +418,7 @@ $discard,site=popularnetworth.com
 $discard,site=popwrapped.com
 $discard,site=popxo.com
 $discard,site=positivelycelebrity.com
+$discard,site=postmalone.com
 $discard,site=presspassla.com
 $discard,site=profvalue.com
 $discard,site=programminginsider.com
@@ -383,21 +428,27 @@ $discard,site=radaronline.com
 $discard,site=realitytelevisionawards.com
 $discard,site=realitytitbit.com
 $discard,site=refinery29.com
+$discard,site=rembeauty.com
+$discard,site=rihanna.com
 $discard,site=rihannanow.com
 $discard,site=rollingstone.com
 $discard,site=saaravita.lk
 $discard,site=sbnation.com
+$discard,site=sc30.com
 $discard,site=scandalgirl.com
 $discard,site=scoopwhoop.com
 $discard,site=screenrant.com
 $discard,site=seafricasa.co.za
 $discard,site=seansmithceleb.com
 $discard,site=seeing-stars.com
+$discard,site=selenagomez.com
 $discard,site=seventeen.com
 $discard,site=shadowandact.com
+$discard,site=shaq.com
 $discard,site=showbizjobs.com
 $discard,site=showbizsandbox.com
 $discard,site=sidomexentertainment.com
+$discard,site=skknbykim.com
 $discard,site=slashfilm.com
 $discard,site=slice.ca
 $discard,site=smartindianews.in
@@ -414,21 +465,27 @@ $discard,site=starnostar.com
 $discard,site=starnostarblog.blogspot.com
 $discard,site=starsunfolded.com
 $discard,site=startefacts.com
+$discard,site=stephencurry30.com
+$discard,site=studentsoftheworld.info
 $discard,site=stylecaster.com
 $discard,site=talkentertainment.com
 $discard,site=tattle.life
+$discard,site=taylorswift.com
+$discard,site=taylorswift.tumblr.com
 $discard,site=tdn.tv
 $discard,site=teamshowbiz.com
 $discard,site=teenvogue.com
 $discard,site=telltalesonline.com
 $discard,site=thatcelebrity.com
 $discard,site=the-sun.com
+$discard,site=thebiocelebs.com
 $discard,site=theblast.com
 $discard,site=thecelebbio.com
 $discard,site=thecelebpost.com
 $discard,site=thecelebrity.biz
 $discard,site=thecelebritybio.com
 $discard,site=thecelebrityexperience.tv
+$discard,site=thecelebritysource.com
 $discard,site=thecelebscloset.com
 $discard,site=thecelebsinfo.com
 $discard,site=thechive.com
@@ -446,6 +503,7 @@ $discard,site=thehollywoodgossip.com
 $discard,site=thehollywoodmuseum.com
 $discard,site=thehollywoodtimes.today
 $discard,site=therichest.com
+$discard,site=therichestcelebs.com
 $discard,site=theringer.com
 $discard,site=theshaderoom.com
 $discard,site=theshocknews.com
@@ -454,6 +512,7 @@ $discard,site=thesuperficial.com
 $discard,site=thetab.com
 $discard,site=thetealmango.com
 $discard,site=thethings.com
+$discard,site=thewealthycelebs.com
 $discard,site=thewrap.com
 $discard,site=thezoereport.com
 $discard,site=thrillz.co.uk
@@ -464,6 +523,7 @@ $discard,site=tonyawards.com
 $discard,site=toofab.com
 $discard,site=topcelebinfo.com
 $discard,site=trendcelebsfacts.com
+$discard,site=trendcelebsnow.com
 $discard,site=truefan.in
 $discard,site=turkeycelebs.com
 $discard,site=tvguidetime.com
@@ -482,6 +542,7 @@ $discard,site=vulture.com
 $discard,site=walkoffame.com
 $discard,site=wapaz.co
 $discard,site=watch.theemmys.tv
+$discard,site=wealthycelebrity.com
 $discard,site=wealthygorilla.com
 $discard,site=week99er.com
 $discard,site=wegotthiscovered.com
@@ -492,6 +553,7 @@ $discard,site=who.com.au
 $discard,site=wikiace.com
 $discard,site=wikibioall.com
 $discard,site=wikibious.com
+$discard,site=wikicelebinfo.com
 $discard,site=wikifamouspeople.com
 $discard,site=wikistarbio.com
 $discard,site=wmagazine.com
@@ -523,18 +585,36 @@ gossip|$discard,inurl
 hollywood|$discard,inurl
 
 ! Discard Subdirectories
+/@arianagrande$discard
 /abscbn_showbiz$discard
+/afterellen$discard
 /almost_famouspodcast$discard
+/ariana-grande$discard
+/arianagrande$discard
+/badgalriri$discard
 /bangshowbiz$discard
 /bet-awards$discard
 /betawards$discard
+/beyonce$discard
+/bollywood$discard
+/bollywood_life$discard
+/buzzfeedceleb$discard
+/caitlyn_jenner$discard
+/caitlynjenner$discard
+/cardi-b$discard
+/cardib$discard
 /celeb-gossip$discard
 /celeb-news$discard
 /celeb-stalker$discard
 /celeb-stalker-crossword-clue$discard
+/celebdirtylaund$discard
 /celebgossip$discard
+/celebinfohelps$discard
+/celebinfoo$discard
+/celebjuice$discard
 /celebnetworth$discard
 /celebns$discard
+/celebri34001811$discard
 /celebrities$discard
 /celebrity-deaths$discard
 /celebrity-gossip$discard
@@ -545,19 +625,26 @@ hollywood|$discard,inurl
 /celebrity$discard
 /celebritynetworth$discard
 /celebritynollywoodnews$discard
+/celebritysource$discard
 /celebs$discard
 /celebs-celebrity-look-alike$discard
+/celebsgodating$discard
 /celebtatafo$discard
+/celebuzz$discard
+/celebwealth$discard
 /celebwikibio$discard
 /celebwouldyourather$discard
 /checktheceleb$discard
+/cnncelebnews$discard
 /commentsbycelebs$discard
 /DailyMailCeleb$discard
 /dailymailceleb$discard
 /dailysuncelebs$discard
 /daytimeemmyawards$discard
+/drinkprime$discard
 /ebgossip$discard
 /eentertainment$discard
+/ellendegeneres$discard
 /emmy_awards$discard
 /emmy-awards$discard
 /emmys$discard
@@ -573,27 +660,70 @@ hollywood|$discard,inurl
 /film/oscars$discard
 /hollywood/star-walk$discard
 /hollywoodtv$discard
+/housesofcelebs$discard
+/huffpostceleb$discard
 /hwdwalkoffame$discard
+/iamcardib$discard
+/impaulsiveshow$discard
 /influencer$discard
+/jayzz_official$discard
+/jonasbrothers$discard
+/justin-bieber$discard
+/justinbieber$discard
+/kanye-west$discard
+/kanyewest$discard
+/katy-perry$discard
+/katyperry$discard
 /kca$discard
 /kcas$discard
+/kendall-jenner$discard
+/kendalljenner$discard
+/khloe-kardashian$discard
+/khloekardashian$discard
+/kim-kardashian$discard
+/kimkardashian$discard
+/kourtney-kardashian$discard
+/kourtneykardash$discard
+/kourtneykardashian$discard
+/krisjenner$discard
+/kylie-jenner$discard
+/kyliecosmetics$discard
+/kyliejenner$discard
+/ladygaga$discard
 /lasvegas-entertainment$discard
 /latest/nollywood$discard
+/lebron-james$discard
+/logan-paul$discard
+/loganpaul$discard
+/lolwotofficial$discard
+/megan-thee-stallion$discard
+/megantheestallion$discard
 /met-gala$discard
 /metgala$discard
 /mirrorceleb$discard
 /movie/awards$discard
 /movie-and-tv-awards$discard
 /mtvawards$discard
+/newsallcelebs$discard
+/newsforcelebz$discard
 /ngv-gala$discard
+/nicki-minaj$discard
+/nickiminaj$discard
 /nollywood$discard
+/oprah$discard
+/oprah-winfrey$discard
+/oprah winfrey$discard
 /pop-culture$discard
 /popculture$discard
 /popculturedotcom$discard
 /popculturetv$discard
+/postmalone$discard
+/r.e.m.beauty$discard
 /r/amazingcelebs$discard
+/r/ariheads$discard
 /r/asiancelebs$discard
 /r/biographyceleb$discard
+/r/bollyblindsngossip$discard
 /r/boredcelebs$discard
 /r/candidcelebs$discard
 /r/celeb_redheads$discard
@@ -620,19 +750,36 @@ hollywood|$discard,inurl
 /r/rankcelebs$discard
 /r/trueratecelebrities$discard
 /r/ultrahighrescelebs$discard
+/rembeauty$discard
 /reutersshowbiz$discard
+/rihanna$discard
+/robkardashianofficial$discard
 /saaravita$discard
+/selena-gomez$discard
+/selenagomez$discard
+/shaq$discard
 /showbiz$discard
 /shows/oscars$discard
 /snydenydn$discard
+/stephen-curry$discard
+/stephencurry30$discard
+/superstars$discard
+/taylor-swift$discard
+/taylorswift$discard
+/taylorswift13$discard
 /thatcelebrity$discard
 /thatcelebrity.om$discard
 /thatcelebty_com$discard
 /the_oscars$discard
 /the-oscars$discard
 /thecelebbio$discard
+/thecelebritysource$discard
 /thecelebtv$discard
+/theellenshow$discard
+/theestallion$discard
 /theoscars$discard
+/therock$discard,site=instagram.com
+/therock$discard,site=twitter.com
 /thetonyawards$discard
 /tmz$discard
 /tmz.tour$discard
@@ -642,12 +789,17 @@ hollywood|$discard,inurl
 /tony-awards$discard
 /tonyawards$discard
 /topcelebs13$discard
+/trackingcelebsx$discard
+/tv$discard
 /tv/awards$discard
 /tvandshowbiz$discard
-/tv$discard
+/tvshowbiz$discard
+/vh1celebrity$discard
 /vma$discard
 /vmas$discard
 /walkoffamestar$discard
+/wealthycelebrity$discard
+/world_of_celebs$discard
 /yahooentertainment$discard
 /younghollywood$discard
 /yourcelebritymagazines$discard
@@ -656,6 +808,7 @@ hollywood|$discard,inurl
 ! This section of code appears to be broken, as it's not targeting the <span class="snippet-title"> in the search results.
 ! $intitle targeting not implemented. This section of code should work once the Goggles codebase is updated!
 ! Discard Titles (Correct Syntax)
+All-Star Celebrity$discard,intitle
 Awkward Celebrities$discard,intitle
 Awkward Celebrity$discard,intitle
 American Celebrity$discard,intitle
@@ -665,6 +818,7 @@ Best Celebrities$discard,intitle
 Best Celebrity$discard,intitle
 Best Celebs$discard,intitle
 BET Awards$discard,intitle
+Big Celebrities$discard,intitle
 Bollywood Celebs$discard,intitle
 Bollywood Gossip$discard,intitle
 BuzzFeed Celeb$discard,intitle
@@ -674,7 +828,9 @@ Celeb Couples$discard,intitle
 Celeb Crush$discard,intitle
 Celeb Endorsement$discard,intitle
 Celeb Endorsements$discard,intitle
+Celeb Facts$discard,intitle
 Celeb Gossip$discard,intitle
+Celeb Houses$discard,intitle
 Celeb Kids$discard,intitle
 Celeb Love$discard,intitle
 Celeb News$discard,intitle
@@ -682,6 +838,7 @@ Celeb Transformations$discard,intitle
 Celebrities$discard,intitle
 Celebrities Endorse$discard,intitle
 Celebrities Endorsed$discard,intitle
+Celebrities Flirted$discard,intitle
 Celebrities Had$discard,intitle
 Celebrities Love$discard,intitle
 Celebrities React$discard,intitle
@@ -697,6 +854,7 @@ Celebrities You$discard,intitle
 Celebrity-Owned$discard,intitle
 Celebrity 100$discard,intitle
 Celebrity 100 List$discard,intitle
+Celebrity All-Star$discard,intitle
 Celebrity Apprentice$discard,intitle
 Celebrity Archives$discard,intitle
 Celebrity Bookworms$discard,intitle
@@ -717,6 +875,7 @@ Celebrity Family Feud$discard,intitle
 Celebrity Ghost$discard,intitle
 Celebrity Gossip$discard,intitle
 Celebrity Hairstyles$discard,intitle
+Celebrity Homes$discard,intitle
 Celebrity Impressions$discard,intitle
 Celebrity Influencers$discard,intitle
 Celebrity IOU$discard,intitle
@@ -748,6 +907,7 @@ Celebrity Videos$discard,intitle
 Celebrity Voiceover$discard,intitle
 Celebrity Voiceovers$discard,intitle
 Celebs Are$discard,intitle
+Celebs Flaunt$discard,intitle
 Celebs Go$discard,intitle
 Celebs Love$discard,intitle
 Celebs React$discard,intitle
@@ -786,8 +946,10 @@ Hollywood Gossip$discard,intitle
 Hollywood News$discard,intitle
 Hollywood Stars$discard,intitle
 I'm A Celebrity$discard,intitle
+Iconic Celebs$discard,intitle
 Insane Celebrities$discard,intitle
 Insane Celebrity$discard,intitle
+Latest Celeb$discard,intitle
 LGBT Celebs$discard,intitle
 LGBT Stars$discard,intitle
 LGBT+ Celebrities$discard,intitle
@@ -805,6 +967,7 @@ Met Gala$discard,intitle
 MTV Awards$discard,intitle
 MTV Movie & TV Awards$discard,intitle
 MTV VMA$discard,intitle
+NBA Celebrity$discard,intitle
 NGV Gala$discard,intitle
 Nollywood Celebrities$discard,intitle
 Nollywood Celebs$discard,intitle
@@ -821,6 +984,7 @@ Straight Celebrities$discard,intitle
 Straight Celebs$discard,intitle
 The Hollywood Reporter$discard,intitle
 The Oscars$discard,intitle
+These Celebs$discard,intitle
 Times Celebs$discard,intitle
 Tony Awards$discard,intitle
 Video Music Awards$discard,intitle
@@ -830,6 +994,7 @@ Which Celebrity$discard,intitle
 Which Celeb$discard,intitle
 Which Celebs$discard,intitle
 With A Celebrity$discard,intitle
+Women Celebrities$discard,intitle
 Won An EGOT$discard,intitle
 Worst Celeb$discard,intitle
 Worst Celebrities$discard,intitle
